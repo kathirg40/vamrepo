@@ -23,6 +23,7 @@ public void PrintStars() {
             System.out.print("%%");
             System.out.println("#");
             System.out.print("$");
+           
           }
           System.out.println(); // Go to next line
         }
