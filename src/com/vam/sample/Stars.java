@@ -22,6 +22,7 @@ public void PrintStars() {
           for(numberOfStars = 1; numberOfStars <= row; numberOfStars++) {
             System.out.print("%%");
             System.out.println("#");
+            System.out.print("$");
           }
           System.out.println(); // Go to next line
         }
