@@ -6,6 +6,7 @@ public class StarsMain {
 		Stars sample1=new Stars();
 		sample1.PrintStars();
 		sample1.PrintPercentage();
+		sample1.PrintTilled();
 
 	}
 
