@@ -2,7 +2,7 @@ package com.vam.sample;
 
 public class Stars {
 	
-public void PrintStars() {
+public void printStars() {
 	
 	int row, numberOfStars;
 	 
@@ -14,38 +14,5 @@ public void PrintStars() {
     }
 }
 	
-    public void PrintPercentage() {
-    	
-    	int row, numberOfStars;
-    	 
-        for (row = 1; row <= 10; row++) {
-          for(numberOfStars = 1; numberOfStars <= row; numberOfStars++) {
-            System.out.print("$");
-            System.out.print("%%");
-            System.out.println("#");
-      
-           
-          
-          }
-          System.out.println(); // Go to next line
-        }
-    }
-    	
-        public void PrintTilled() {
-        	
-        	int row, numberOfStars;
-        	 
-            for (row = 1; row <= 10; row++) {
-              for(numberOfStars = 1; numberOfStars <= row; numberOfStars++) {
-                System.out.print("$");
-                System.out.print("%%");
-                System.out.println("#");
-          
-               
-              
-              }
-              System.out.println(); // Go to next line
-            }
-}
-
+   
 }
