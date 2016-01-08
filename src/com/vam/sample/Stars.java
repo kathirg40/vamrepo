@@ -54,7 +54,7 @@ public void printAnd() {
       for(numberOfStars = 1; numberOfStars <= row; numberOfStars++) {
         System.out.print("$");
       }
-      System.out.println(); // Go to next line
+      System.out.println(); // Go to next linesss
       System.out.println(); // Go to next linesss
     }
 
