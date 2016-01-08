@@ -55,7 +55,7 @@ public void printAnd() {
         System.out.print("$");
       }
       System.out.println(); // Go to next line
-      System.out.println(); // Go to next lines
+      System.out.println(); // Go to next linesss
     }
 
 }}
