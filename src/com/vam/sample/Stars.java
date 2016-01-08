@@ -11,6 +11,7 @@ public void printStars() {
         System.out.print("*");
       }
       System.out.println(); // Go to next line
+      System.out.println("changed branch 1");
      
     }
 }
