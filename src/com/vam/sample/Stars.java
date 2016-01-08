@@ -46,4 +46,16 @@ private void syso() {
 
 }
 
-}
+public void printAnd() {
+	
+	int row, numberOfStars;
+	 
+    for (row = 1; row <= 10; row++) {
+      for(numberOfStars = 1; numberOfStars <= row; numberOfStars++) {
+        System.out.print("$");
+      }
+      System.out.println(); // Go to next line
+      System.out.println(); // Go to next line
+    }
+
+}}
