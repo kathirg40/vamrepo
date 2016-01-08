@@ -40,6 +40,10 @@ public void printDollor() {
       System.out.println(); // Go to next line
     }
 }
-      
-   
+     
+private void syso() {
+	
+
+}
+
 }
